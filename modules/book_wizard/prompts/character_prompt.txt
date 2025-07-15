@@ -1,0 +1,9 @@
+Erstelle eine detaillierte Charakterbeschreibung für die folgende Figur:
+
+Name: {{name}}
+Alter: {{age}}
+Geschlecht: {{gender}}
+Hintergrundgeschichte: {{background}}
+Rolle im Buch: {{role}}
+
+Füge Attribute hinzu wie Stärken, Schwächen, Motivation, Konflikte, Beziehungen zu anderen Charakteren.

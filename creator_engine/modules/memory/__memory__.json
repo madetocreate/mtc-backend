@@ -1,0 +1,133 @@
+{
+  "marketing": [
+    {
+      "content": "Ergebnis für 'Wie funktioniert AI?' in Domain 'marketing'",
+      "metadata": {
+        "query": "Wie funktioniert AI?",
+        "domain": "marketing",
+        "source": "scoutbot"
+      },
+      "timestamp": "2025-07-12T21:27:46.361698"
+    },
+    {
+      "content": "Marketing Insights für: Telegram Bot Marketing",
+      "metadata": {
+        "keyword": "Telegram Bot Marketing",
+        "source": "marketingbot"
+      },
+      "timestamp": "2025-07-12T21:27:46.364810"
+    },
+    {
+      "content": "Ergebnis für 'Wie funktioniert AI?' in Domain 'marketing'",
+      "metadata": {
+        "query": "Wie funktioniert AI?",
+        "domain": "marketing",
+        "source": "scoutbot"
+      },
+      "timestamp": "2025-07-12T21:30:18.108831"
+    },
+    {
+      "content": "Marketing Insights für: Wie funktioniert AI?",
+      "metadata": {
+        "keyword": "Wie funktioniert AI?",
+        "source": "marketingbot"
+      },
+      "timestamp": "2025-07-12T21:30:18.109911"
+    },
+    {
+      "content": "Marketing Insights für: Wie funktioniert AI?",
+      "metadata": {
+        "query": "Wie funktioniert AI?",
+        "source": "marketingbot"
+      },
+      "timestamp": "2025-07-12T21:30:18.110329"
+    },
+    {
+      "content": "Marketing Insights für: Telegram Bot Marketing",
+      "metadata": {
+        "keyword": "Telegram Bot Marketing",
+        "source": "marketingbot"
+      },
+      "timestamp": "2025-07-12T21:30:18.111140"
+    },
+    {
+      "content": "Ergebnis für 'Wie funktioniert AI?' in Domain 'marketing'",
+      "metadata": {
+        "query": "Wie funktioniert AI?",
+        "domain": "marketing",
+        "source": "scoutbot"
+      },
+      "timestamp": "2025-07-12T21:31:29.480726"
+    },
+    {
+      "content": "Marketing Insights für: Wie funktioniert AI?",
+      "metadata": {
+        "keyword": "Wie funktioniert AI?",
+        "source": "marketingbot"
+      },
+      "timestamp": "2025-07-12T21:31:29.481604"
+    },
+    {
+      "content": "Marketing Insights für: Wie funktioniert AI?",
+      "metadata": {
+        "query": "Wie funktioniert AI?",
+        "source": "marketingbot"
+      },
+      "timestamp": "2025-07-12T21:31:29.482017"
+    },
+    {
+      "content": "Marketing Insights für: Telegram Bot Marketing",
+      "metadata": {
+        "keyword": "Telegram Bot Marketing",
+        "source": "marketingbot"
+      },
+      "timestamp": "2025-07-12T21:31:29.482951"
+    }
+  ],
+  "code": [
+    {
+      "content": "Code Beispiel für: Python Webserver Beispiel",
+      "metadata": {
+        "query": "Python Webserver Beispiel",
+        "source": "codebot"
+      },
+      "timestamp": "2025-07-12T21:27:46.364238"
+    },
+    {
+      "content": "Code Beispiel für: Python Webserver Beispiel",
+      "metadata": {
+        "query": "Python Webserver Beispiel",
+        "source": "codebot"
+      },
+      "timestamp": "2025-07-12T21:30:18.110693"
+    },
+    {
+      "content": "Code Beispiel für: Python Webserver Beispiel",
+      "metadata": {
+        "query": "Python Webserver Beispiel",
+        "source": "codebot"
+      },
+      "timestamp": "2025-07-12T21:31:29.482474"
+    }
+  ],
+  "erinnerungen": [
+    {
+      "content": "Das ist eine wichtige Erinnerung an Projekt X.",
+      "metadata": {
+        "autor": "Matthias",
+        "datum": "2025-07-12"
+      },
+      "timestamp": "2025-07-12T21:54:46.306987"
+    }
+  ],
+  "chatgpt": [
+    {
+      "content": "ChatGPT merkt sich, dass Matthias eine Erinnerung gespeichert hat und den Chat wechselt.",
+      "metadata": {
+        "autor": "ChatGPT",
+        "datum": "2025-07-12"
+      },
+      "timestamp": "2025-07-12T21:56:34.645631"
+    }
+  ]
+}

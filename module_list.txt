@@ -1,0 +1,19 @@
+Claude Writer - claude_writer.html
+Text-Bot - ai_auto_writer.html
+Voice - voice.html
+Video - video.html
+Image - image.html
+Recherche - search.html
+Post Planner - post_planner.html
+Upload - upload.html
+PromptLab - promptlab.html
+Theme Editor - theme_editor.html
+Templates - template.html
+Testing - testing.html
+Tools - tools.html
+Wizard - wizard.html
+Token Vault - token_vault.html
+Mehrsprachigkeit - multi_lang.html
+Rollen - user_roles.html
+Sicherheit - security.html
+Einstellungen - settings.html

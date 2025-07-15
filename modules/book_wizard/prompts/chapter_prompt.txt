@@ -1,0 +1,10 @@
+Schreibe ein vollständiges Kapitel basierend auf folgendem Kontext:
+
+Titel des Buches: {{title}}
+Kapitelnummer: {{chapter_number}}
+Kapitelüberschrift: {{chapter_title}}
+Inhalt der bisherigen Kapitel: {{previous_summary}}
+Ton & Stil: {{style}}
+Zielgruppe: {{audience}}
+
+Beginne das Kapitel direkt – ohne Inhaltsangabe oder Einleitungstext.

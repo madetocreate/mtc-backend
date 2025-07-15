@@ -1,0 +1,12 @@
+
+fastapi
+uvicorn
+openai
+anthropic
+python-dotenv
+httpx
+requests
+pydantic
+jinja2
+aiofiles
+

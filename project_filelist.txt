@@ -1,0 +1,2 @@
+-rw-r--r--  1 cc  staff   146B Jul 13 21:10 ./.vite/deps/_metadata.json
+-rw-r--r--  1 cc  staff    23B Jul 13 21:10 ./.vite/deps/package.json

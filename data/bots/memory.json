@@ -1,0 +1,12 @@
+{
+  "claude": {
+    "enabled": true,
+    "last_prompt": "",
+    "memory": []
+  },
+  "gpt": {
+    "enabled": true,
+    "last_prompt": "",
+    "memory": []
+  }
+}
