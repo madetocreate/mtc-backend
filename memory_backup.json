@@ -1,0 +1,109 @@
+[
+  {
+    "id": "dummy-1752425389",
+    "values": [],
+    "metadata": {
+      "text": "Dummy",
+      "user": "test"
+    }
+  },
+  {
+    "id": "dummy-1752425387",
+    "values": [],
+    "metadata": {
+      "text": "Dummy",
+      "user": "test"
+    }
+  },
+  {
+    "id": "dummy-001",
+    "values": [],
+    "metadata": {
+      "text": "Das ist ein Dummy-Testeintrag ins Pinecone Memory.",
+      "user": "aion"
+    }
+  },
+  {
+    "id": "memory-1752425129",
+    "values": [],
+    "metadata": {
+      "module": "test",
+      "text": "[test] Was war mein erster Gedanke? \u2192 Als KI-Assistent habe ich keinen Zugang zu pers\u00f6nlichen Gedanken. Ich bin daf\u00fcr entwickelt worden, Anfragen zu bearbeiten und Informationen zu liefern.",
+      "user": "aion"
+    }
+  },
+  {
+    "id": "dummy-1752425390",
+    "values": [],
+    "metadata": {
+      "text": "Dummy",
+      "user": "test"
+    }
+  },
+  {
+    "id": "entry-002",
+    "values": [],
+    "metadata": {
+      "text": "Der erste echte Eintrag ins Memory mit OpenAI Embedding.",
+      "user": "aion"
+    }
+  },
+  {
+    "id": "restore-entry-002-1752425755",
+    "values": [],
+    "metadata": {
+      "text": "Der erste echte Eintrag ins Memory mit OpenAI Embedding.",
+      "user": "aion"
+    }
+  },
+  {
+    "id": "restore-memory-1752425129-1752425754",
+    "values": [],
+    "metadata": {
+      "module": "test",
+      "text": "[test] Was war mein erster Gedanke? \u2192 Als KI-Assistent habe ich keinen Zugang zu pers\u00f6nlichen Gedanken. Ich bin daf\u00fcr entwickelt worden, Anfragen zu bearbeiten und Informationen zu liefern.",
+      "user": "aion"
+    }
+  },
+  {
+    "id": "restore-dummy-001-1752425754",
+    "values": [],
+    "metadata": {
+      "text": "Das ist ein Dummy-Testeintrag ins Pinecone Memory.",
+      "user": "aion"
+    }
+  },
+  {
+    "id": "restore-dummy-1752425387-1752425754",
+    "values": [],
+    "metadata": {
+      "text": "Dummy",
+      "user": "test"
+    }
+  },
+  {
+    "id": "restore-dummy-1752425389-1752425753",
+    "values": [],
+    "metadata": {
+      "text": "Dummy",
+      "user": "test"
+    }
+  },
+  {
+    "id": "restore-dummy-1752425390-1752425755",
+    "values": [],
+    "metadata": {
+      "text": "Dummy",
+      "user": "test"
+    }
+  },
+  {
+    "id": "reflection-memory-1752425997",
+    "values": [],
+    "metadata": {
+      "module": "reflection",
+      "text": "[reflection] Was habe ich heute gelernt? \u2192 Als KI-Assistent habe ich keinen Zugang zu pers\u00f6nlichen Daten \u00fcber dich, es sei denn, du teilst diese Informationen direkt mit mir. Ich bin darauf programmiert, Datenschutz zu respektieren und vertraulich zu behandeln. Daher kann ich nicht wissen, was du heute gelernt hast.",
+      "user": "aion"
+    }
+  }
+]

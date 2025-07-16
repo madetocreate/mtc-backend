@@ -1,0 +1,5 @@
+{
+  "video_gen": { "active": true, "version": "1.0.0" },
+  "video_optimizer": { "active": false, "version": "0.9.0" },
+  "3d_render": { "active": true, "version": "0.5.2" }
+}
