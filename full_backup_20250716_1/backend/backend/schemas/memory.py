@@ -1,0 +1,2 @@
+class MemorySchema:
+    pass
