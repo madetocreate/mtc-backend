@@ -1,4 +1,1 @@
-from .indexer import run_index
-
-def main():
-    run_index()
+from .task_runner import run_tasks
