@@ -1,0 +1,1 @@
+Schreibe ein vollständiges Buch mit dem Titel: {book_title} im Genre: {genre}. Gliedere das Buch in sinnvolle Kapitel.

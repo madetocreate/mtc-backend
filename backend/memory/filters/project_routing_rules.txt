@@ -1,0 +1,3 @@
+Wenn Task Titel "NLP", speichere unter memory/projects/buchprojekt_nlp/
+Wenn Task enthält "KI", speichere unter memory/projects/buchprojekt_thriller/
+Wenn Task enthält "Roman", speichere unter memory/projects/buchprojekt_roman/

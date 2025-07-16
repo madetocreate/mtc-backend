@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 ../modules/claude/agent/claude_agent.py
+python3 modules/claude/agent/claude_agent.py

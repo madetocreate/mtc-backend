@@ -1,0 +1,2 @@
+Wenn ein Task "Thriller" enthält, tagge ihn mit #thriller
+Wenn ein Task "Claude" enthält, tagge ihn mit #claude
