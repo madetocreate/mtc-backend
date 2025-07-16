@@ -1,0 +1,1 @@
+{ "default": "gpt-4o", "alt": ["claude", "gemini"] }

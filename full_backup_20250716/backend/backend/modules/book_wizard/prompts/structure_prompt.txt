@@ -1,0 +1,9 @@
+Erstelle eine sinnvolle Kapitelstruktur für folgendes Buch:
+
+Titel: {{title}}
+Beschreibung: {{description}}
+Genre: {{genre}}
+Zielgruppe: {{audience}}
+Geplanter Stil: {{style}}
+
+Gib mir eine Liste mit 10–15 Kapiteln, jeweils mit kurzer Beschreibung pro Kapitel.

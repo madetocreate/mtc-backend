@@ -1,0 +1,74 @@
+{
+  "wissen": [
+    {
+      "id": "5c3b5408-8eb2-4dda-a410-6cb41753f52b",
+      "timestamp": "2025-07-12T22:38:03.686685",
+      "content": "Hundetraining mit positiver Verstärkung funktioniert langfristig am besten.",
+      "metadata": {
+        "quelle": "test"
+      }
+    }
+  ],
+  "recherche": [
+    {
+      "id": "a9f2026c-d558-4233-9d4b-776a1de05612",
+      "timestamp": "2025-07-12T22:40:11.554032",
+      "content": "Ergebnis für: Wie funktioniert Hundetraining nach dem Clicker-Prinzip?",
+      "metadata": {
+        "quelle": "scoutbot",
+        "query": "Wie funktioniert Hundetraining nach dem Clicker-Prinzip?"
+      }
+    },
+    {
+      "id": "bc0bf925-c54f-4146-a5a8-5689fde66e33",
+      "timestamp": "2025-07-12T22:40:58.966063",
+      "content": "Ergebnis für: Wie funktioniert Hundetraining nach dem Clicker-Prinzip?",
+      "metadata": {
+        "quelle": "scoutbot",
+        "query": "Wie funktioniert Hundetraining nach dem Clicker-Prinzip?"
+      }
+    }
+  ],
+  "buchideen": [
+    {
+      "id": "f527d97b-4ef8-412a-8318-7555be26c905",
+      "timestamp": "2025-07-12T22:53:45.820072",
+      "content": "Ein Buch über KI-Überwachung im Genre Thriller, für Männer 30–50.",
+      "metadata": {
+        "title": "AI-Risiko: KI-Überwachung",
+        "style": "spannend, düster",
+        "quelle": "Verlorene Kontrolle – Bestseller auf Amazon"
+      }
+    },
+    {
+      "id": "3cf40777-2874-4219-977b-ee75e3ca4883",
+      "timestamp": "2025-07-12T22:53:45.821445",
+      "content": "Ein Buch über Innere Kind Heilung im Genre Spiritualität, für Frauen 25–45.",
+      "metadata": {
+        "title": "AI-Risiko: Innere Kind Heilung",
+        "style": "sanft, emotional",
+        "quelle": "Reconnect – Platz 1 in Esoterik"
+      }
+    },
+    {
+      "id": "e49848d8-feba-4d97-8a52-1317f531c6c3",
+      "timestamp": "2025-07-12T23:20:30.678231",
+      "content": "Ein Science-Fiction-Buch für Jugendliche im Stil spannend, futuristisch",
+      "metadata": {
+        "title": "Buch über Künstliche Intelligenz",
+        "style": "spannend, futuristisch",
+        "source": "ScoutBot Trendanalyse"
+      }
+    },
+    {
+      "id": "5ef33da3-6436-44c5-b10e-2182d0d09f4e",
+      "timestamp": "2025-07-12T23:20:30.679484",
+      "content": "Ein Self-Help-Buch für Erwachsene im Stil ruhig, motivierend",
+      "metadata": {
+        "title": "Buch über Achtsamkeit",
+        "style": "ruhig, motivierend",
+        "source": "ScoutBot Trendanalyse"
+      }
+    }
+  ]
+}

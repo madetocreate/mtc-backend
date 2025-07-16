@@ -1,0 +1,8 @@
+Refactore indexer.py
+Was ist die Hauptstadt von Deutschland?
+Erkläre mir Quantenverschränkung ausführlich.
+Wie lautet das Ergebnis von 13*7?
+Erkläre mir den Unterschied zwischen RNA und DNA.
+Finde Bugs in cleanup.py
+Schreibe eine E-Mail an ein Support-Team.
+Was ist AGI und wie unterscheidet es sich von Narrow AI?
