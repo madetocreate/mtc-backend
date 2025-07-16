@@ -1,0 +1,1 @@
+Erstelle zu jedem gefundenen Bug ein passendes GitHub Issue.

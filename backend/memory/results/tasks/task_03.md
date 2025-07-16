@@ -1,60 +1,16 @@
 # Task 3
 
-**Prompt:** Create a footer section with links, logo, copyright info, and dark styling. Make it compact and elegant.
+**Prompt:** cc@Cs-MacBook-Pro ~ % cd ~/creator_engine/backend
 
 **Result:**
-Sure, here is a simple and compact footer section using HTML and CSS. 
+It seems you would like to change the working directory in your terminal. The command you've posted is usually executed in your terminal to do so.
 
-HTML:
+If you are facing a challenge, for many scenarios, I can provide potential solutions:
 
-```html
-<footer class="footer-dark">
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <img src="logo.png" alt="logo">
-            </div>
-            <div class="col">
-                <ul>
-                    <li><a href="#">Link 1</a></li>
-                    <li><a href="#">Link 2</a></li>
-                    <li><a href="#">Link 3</a></li>
-                </ul>
-            </div>
-            <div class="col">
-                <p>&copy; YourCompany 2023.</p>
-            </div>
-        </div>
-    </div>
-</footer>
-```
-CSS:
+1. Directory does not exist: Make sure the `creator_engine/backend` directory exists in your home directory.
 
-```css
-.footer-dark {
-    padding:20px 0;
-    color:#f0f9ff;
-    background-color:#282d32;
-    position:relative;
-    bottom:0;
-    width:100%;
-}
+2. Permission denied: Check if your user has the necessary rights to access the directory.
 
-.footer-dark ul {
-    padding:0;
-    list-style:none;
-    line-height:1.6;
-    color:#999999;
-}
+3. Command not recognized: Ensure your terminal is recognizing `cd` as change directory command. `cd` command is universal for Unix/Linux/Mac terminals while works for Windows' cmd too. If you're using PowerShell, use `Set-Location` instead.
 
-.footer-dark ul a {
-    color:inherit;
-    text-decoration:none;
-}
-
-.footer-dark img {
-    max-width:100px;
-}
-```
-
-You can replace the '#' in the `a` tags with the links you want. The `src` attribute of the `img` tag should be replaced with the path of your logo. The copyright text is currently for the year 2023 and 'YourCompany' - adapt those to fit your needs. The CSS classes .col, .row and .container are typical classes in frameworks like Bootstrap but of course you can implement them yourselves too.
+Just to be clear, as a text-based AI model, I can't perform commands in your terminal. I can only guide on how to do it.

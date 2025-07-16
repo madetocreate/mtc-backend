@@ -1,6 +1,9 @@
+"""Buch-Wizard Modul: Erzeugt Kapitel aus Prompts."""
 from .prompts import load_prompt
 from .db import save_project
 from .memory import append_to_memory
+    """Erzeugt ein Buchkapitel basierend auf Nutzereingaben und Template."""
+from .memory_log import log_chapter_to_memory
 
 def generate_chapter(data):
     prompt = load_prompt("chapter_prompt.txt")
@@ -14,8 +17,5 @@ def generate_chapter(data):
         "audience": data.get("audience"),
         "text": filled_prompt
     })
+    log_chapter_to_memory(data, filled_prompt)
     return filled_prompt
-
-
-from .memory_log import log_chapter_to_memory
-log_chapter_to_memory(data, filled_prompt)

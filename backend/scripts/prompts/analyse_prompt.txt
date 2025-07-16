@@ -1,0 +1,1 @@
+Bitte analysiere den gesamten Code auf Schwachstellen und Verbesserungspotential.

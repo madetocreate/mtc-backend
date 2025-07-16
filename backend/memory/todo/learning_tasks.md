@@ -1,0 +1,35 @@
+# Lern-TODO für AION
+- Erkläre die Unterschiede zwischen GPT und Claude.
+- Was bedeutet 'Constitutional AI' bei Claude?
+- Welche Claude-Version eignet sich für Code-Reviews?
+- Was sind die Vorteile von Claude 3 im Vergleich zu GPT-4?
+- Wie speichert AION Wissen dauerhaft?
+- Erkläre den Promptflow von AION.
+- Was ist der Unterschied zwischen Input-Prompt und System-Prompt?
+- Warum sind Token-Grenzen wichtig?
+- Wie funktioniert Memory-Filtering?
+- Welche Claude-Version nutzt AION standardmäßig?
+- Wofür wird Haiku statt Opus genutzt?
+- Welche Claude-API-Fehler sind häufig?
+- Wie erkennt Claude, ob ein Task für ihn geeignet ist?
+- Wie delegiert AION Aufgaben an Claude?
+- Welche Logs speichert AION bei Claude-Ausführung?
+- Wie kann man Ergebnisse von Claude validieren?
+- Wie kann man Claude auf ein Memory-Modul trainieren?
+- Beschreibe den Workflow zwischen AION und Claude.
+- Welche Claude-Version ist günstiger für einfache Aufgaben?
+- Wie kann Claude Feedback zu AIONs Strategie geben?
+- Wie skaliert man Claude-Tasks bei vielen Inputs?
+- Wie testet man Claude lokal mit Mock-Daten?
+- Welche Claude-Version ist für Recherche optimal?
+- Was ist 'Message Memory' bei Claude?
+- Wie funktioniert das  SDK?
+- Wie erkennt Claude redundante Prompts?
+- Was ist der Unterschied zwischen Claude und Perplexity?
+- Wofür ist  optimiert?
+- Welche Rolle spielt Claude in Agentic AI?
+- Wie können Claude-Antworten versioniert werden?
+- Wie analysiert Claude UX/UI-Komponenten?
+- Wie erstellt man mit Claude ein Code-Review?
+Füge GitHub Scanning als Learning-Task hinzu
+Füge Claude Memory-Anbindung als Task hinzu
