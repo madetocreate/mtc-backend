@@ -1,0 +1,155 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.13.5, pytest-8.4.1, pluggy-1.6.0 -- /Users/cc/creator_engine/backend/venv/bin/python3.13
+cachedir: .pytest_cache
+rootdir: /Users/cc/creator_engine/backend
+plugins: anyio-4.9.0, asyncio-1.0.0
+asyncio: mode=Mode.STRICT, asyncio_default_fixture_loop_scope=None, asyncio_default_test_loop_scope=function
+collecting ... collected 21 items / 11 errors
+
+==================================== ERRORS ====================================
+________________________ ERROR collecting main_test.py _________________________
+ImportError while importing test module '/Users/cc/creator_engine/backend/main_test.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+main_test.py:3: in <module>
+    from routers.memory import router as memory_router
+routers/memory.py:2: in <module>
+    from services.memory import save_memory, get_memory
+E   ImportError: cannot import name 'save_memory' from 'services.memory' (/Users/cc/creator_engine/backend/services/memory.py)
+________________ ERROR collecting modules/memory/test_memory.py ________________
+ImportError while importing test module '/Users/cc/creator_engine/backend/modules/memory/test_memory.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+modules/memory/test_memory.py:1: in <module>
+    from creator_engine.modules.memory.core import append_entry, get_entries, search_memory
+E   ModuleNotFoundError: No module named 'creator_engine.modules.memory'
+_________ ERROR collecting modules/scoutbot/market/test_save_ideas.py __________
+ImportError while importing test module '/Users/cc/creator_engine/backend/modules/scoutbot/market/test_save_ideas.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+modules/scoutbot/market/test_save_ideas.py:6: in <module>
+    from creator_engine.modules.scoutbot.market.memory_integration import save_book_ideas_to_memory
+E   ModuleNotFoundError: No module named 'creator_engine.modules.scoutbot'
+____________ ERROR collecting modules/scoutbot/market/test_trend.py ____________
+ImportError while importing test module '/Users/cc/creator_engine/backend/modules/scoutbot/market/test_trend.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+modules/scoutbot/market/test_trend.py:1: in <module>
+    from trend_scout import get_book_trends
+E   ModuleNotFoundError: No module named 'trend_scout'
+__________________ ERROR collecting tests/test_github_push.py __________________
+ImportError while importing test module '/Users/cc/creator_engine/backend/tests/test_github_push.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_github_push.py:2: in <module>
+    from services.github import push_to_github
+E   ImportError: cannot import name 'push_to_github' from 'services.github' (/Users/cc/creator_engine/backend/services/github.py)
+____________________ ERROR collecting tests/test_health.py _____________________
+ImportError while importing test module '/Users/cc/creator_engine/backend/tests/test_health.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_health.py:3: in <module>
+    from main import app
+main.py:3: in <module>
+    from routers.memory import router as memory_router
+routers/memory.py:2: in <module>
+    from services.memory import save_memory, get_memory
+E   ImportError: cannot import name 'save_memory' from 'services.memory' (/Users/cc/creator_engine/backend/services/memory.py)
+____________________ ERROR collecting tests/test_memory.py _____________________
+ImportError while importing test module '/Users/cc/creator_engine/backend/tests/test_memory.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_memory.py:3: in <module>
+    from main import app
+main.py:3: in <module>
+    from routers.memory import router as memory_router
+routers/memory.py:2: in <module>
+    from services.memory import save_memory, get_memory
+E   ImportError: cannot import name 'save_memory' from 'services.memory' (/Users/cc/creator_engine/backend/services/memory.py)
+_________________ ERROR collecting tests/test_memory_async.py __________________
+ImportError while importing test module '/Users/cc/creator_engine/backend/tests/test_memory_async.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_memory_async.py:2: in <module>
+    from services.memory import save_memory, get_memory
+E   ImportError: cannot import name 'save_memory' from 'services.memory' (/Users/cc/creator_engine/backend/services/memory.py)
+_____________________ ERROR collecting tests/test_root.py ______________________
+ImportError while importing test module '/Users/cc/creator_engine/backend/tests/test_root.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_root.py:3: in <module>
+    from main import app
+main.py:3: in <module>
+    from routers.memory import router as memory_router
+routers/memory.py:2: in <module>
+    from services.memory import save_memory, get_memory
+E   ImportError: cannot import name 'save_memory' from 'services.memory' (/Users/cc/creator_engine/backend/services/memory.py)
+______________________ ERROR collecting tests/test_tts.py ______________________
+ImportError while importing test module '/Users/cc/creator_engine/backend/tests/test_tts.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_tts.py:3: in <module>
+    from main import app
+main.py:3: in <module>
+    from routers.memory import router as memory_router
+routers/memory.py:2: in <module>
+    from services.memory import save_memory, get_memory
+E   ImportError: cannot import name 'save_memory' from 'services.memory' (/Users/cc/creator_engine/backend/services/memory.py)
+____________________ ERROR collecting tests/test_whisper.py ____________________
+ImportError while importing test module '/Users/cc/creator_engine/backend/tests/test_whisper.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/importlib/__init__.py:88: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_whisper.py:3: in <module>
+    from main import app
+main.py:3: in <module>
+    from routers.memory import router as memory_router
+routers/memory.py:2: in <module>
+    from services.memory import save_memory, get_memory
+E   ImportError: cannot import name 'save_memory' from 'services.memory' (/Users/cc/creator_engine/backend/services/memory.py)
+=========================== short test summary info ============================
+ERROR main_test.py
+ERROR modules/memory/test_memory.py
+ERROR modules/scoutbot/market/test_save_ideas.py
+ERROR modules/scoutbot/market/test_trend.py
+ERROR tests/test_github_push.py
+ERROR tests/test_health.py
+ERROR tests/test_memory.py
+ERROR tests/test_memory_async.py
+ERROR tests/test_root.py
+ERROR tests/test_tts.py
+ERROR tests/test_whisper.py
+!!!!!!!!!!!!!!!!!!! Interrupted: 11 errors during collection !!!!!!!!!!!!!!!!!!!
+============================== 11 errors in 1.92s ==============================
