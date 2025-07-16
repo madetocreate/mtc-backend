@@ -1,1 +1,1 @@
-def main(): print("Altcode")
+def run_index(): print("Altcode")

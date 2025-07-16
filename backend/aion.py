@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
-from modules.aion_core.cli import main
+from modules.aion_core.task_runner import run_tasks
+
 if __name__ == "__main__":
-    main()
+    run_tasks("memory/todo/auto_tasks_prompts.md")
