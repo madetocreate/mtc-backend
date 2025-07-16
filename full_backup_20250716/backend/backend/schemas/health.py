@@ -1,0 +1,2 @@
+class HealthSchema:
+    pass
