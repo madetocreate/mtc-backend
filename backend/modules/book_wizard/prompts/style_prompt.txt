@@ -1,0 +1,8 @@
+Schreibe den folgenden Text in diesem gewünschten Stil um:
+
+Zielstil: {{style}}
+Beispieltext: {{text}}
+
+Stiloptionen können sein: humorvoll, sachlich, poetisch, locker, dramatisch, literarisch, dystopisch, kindgerecht, esoterisch, spirituell etc.
+
+Gib den umformulierten Text direkt zurück.

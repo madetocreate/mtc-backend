@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.DS_Store
+.env
+node_modules/
+*.log
+
+git add .gitignore
+git commit -m "Add .gitignore"
+git push

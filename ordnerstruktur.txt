@@ -1,0 +1,169 @@
+[1.1K]  .
+├── [ 10K]  .DS_Store
+├── [  69]  .env
+├── [ 448]  .git
+│   ├── [ 12K]  COMMIT_EDITMSG
+│   ├── [ 103]  FETCH_HEAD
+│   ├── [  21]  HEAD
+│   ├── [  41]  ORIG_HEAD
+│   ├── [ 354]  config
+│   ├── [  73]  description
+│   ├── [ 480]  hooks
+│   ├── [ 25K]  index
+│   ├── [  96]  info
+│   ├── [ 128]  logs
+│   ├── [5.7K]  objects
+│   └── [ 160]  refs
+├── [ 126]  .gitignore
+├── [ 156]  ai_task.py
+├── [ 288]  api
+│   ├── [  37]  __init__.py
+│   ├── [ 416]  __pycache__
+│   ├── [ 309]  api.py
+│   ├── [ 506]  main.py
+│   ├── [  81]  models.py
+│   ├── [ 265]  research_trigger.py
+│   └── [ 192]  routes
+├── [ 787]  api_argil.py
+├── [ 153]  api_bookwizard.py
+├── [ 550]  api_bot.py
+├── [ 479]  api_bots.py
+├── [ 506]  api_claude.py
+├── [6.8K]  api_main.py
+├── [ 544]  api_routes
+│   ├── [ 480]  __pycache__
+│   ├── [ 305]  claude.py
+│   ├── [ 257]  comic_gen.py
+│   ├── [ 386]  head_ai.py
+│   ├── [ 355]  head_router.py
+│   ├── [ 417]  logs.py
+│   ├── [ 321]  module_control.py
+│   ├── [ 176]  module_list.py
+│   ├── [ 265]  music_gen.py
+│   ├── [ 254]  post_gen.py
+│   ├── [ 263]  product_gen.py
+│   ├── [ 294]  research_bot.py
+│   ├── [ 280]  three_d_render.py
+│   ├── [ 287]  video_gen.py
+│   └── [ 265]  voice_gen.py
+├── [ 416]  backend
+│   ├── [   0]  README.md
+│   ├── [ 160]  aion
+│   ├── [ 384]  atomic_bots
+│   ├── [ 384]  hubs
+│   ├── [ 160]  memory
+│   ├── [  86]  package-lock.json
+│   ├── [  64]  static
+│   ├── [  96]  templates
+│   ├── [  64]  tests
+│   ├── [  64]  utils
+│   └── [ 160]  wizard
+├── [ 420]  bot_memory.py
+├── [ 588]  cli_menu.py
+├── [  64]  config
+├── [ 174]  config.py
+├── [ 513]  config_snippets.txt
+├── [ 128]  creator_engine
+│   ├── [6.0K]  .DS_Store
+│   └── [  64]  modules
+├── [  96]  data
+│   └── [  96]  bots
+├── [ 128]  db
+│   ├── [ 16K]  creator_engine.db
+│   └── [ 168]  init_logs.sql
+├── [ 544]  frontend
+│   ├── [ 253]  .gitignore
+│   ├── [2.2K]  README.md
+│   ├── [   0]  dev
+│   ├── [ 610]  eslint.config.js
+│   ├── [ 366]  index.html
+│   ├── [5.2K]  node_modules
+│   ├── [135K]  package-lock.json
+│   ├── [ 800]  package.json
+│   ├── [  96]  public
+│   ├── [ 256]  src
+│   ├── [ 127]  tailwind.config.js
+│   ├── [ 702]  tsconfig.app.json
+│   ├── [ 119]  tsconfig.json
+│   ├── [ 630]  tsconfig.node.json
+│   └── [ 161]  vite.config.ts
+├── [ 256]  head_layer
+│   ├── [ 192]  __pycache__
+│   ├── [ 396]  logger.py
+│   ├── [ 100]  module_list.py
+│   ├── [ 630]  module_manager.py
+│   ├── [ 175]  module_registry.json
+│   └── [   3]  prompt_log.json
+├── [   3]  memory.json
+├── [2.7K]  memory_backup.json
+├── [ 218]  memory_search.py
+├── [ 992]  modules
+│   ├── [  64]  3d_render
+│   ├── [  64]  ai
+│   ├── [  64]  assets
+│   ├── [  64]  audio_voice
+│   ├── [ 416]  book_wizard
+│   ├── [  96]  chat_interface
+│   ├── [  96]  codebot
+│   ├── [  96]  comic_gen
+│   ├── [ 128]  head_ai
+│   ├── [ 128]  head_core
+│   ├── [  64]  image_gen
+│   ├── [  96]  marketingbot
+│   ├── [ 384]  memory
+│   ├── [ 128]  music_gen
+│   ├── [ 347]  ober_ai.py
+│   ├── [ 244]  ober_ai_core.py
+│   ├── [  96]  post_gen
+│   ├── [  96]  product_gen
+│   ├── [  96]  research
+│   ├── [  64]  research_ai
+│   ├── [ 128]  research_bot
+│   ├── [ 128]  scheduler
+│   ├── [ 160]  scoutbot
+│   ├── [  96]  text_gen
+│   ├── [  64]  text_writer
+│   ├── [ 128]  three_d_render
+│   ├── [  96]  video_gen
+│   ├── [  64]  video_optimizer
+│   └── [ 128]  voice_gen
+├── [ 864]  mtc-backend
+│   ├── [  69]  .env
+│   ├── [ 384]  .git
+│   ├── [ 156]  ai_task.py
+│   ├── [ 288]  api
+│   ├── [ 787]  api_argil.py
+│   ├── [ 153]  api_bookwizard.py
+│   ├── [ 550]  api_bot.py
+│   ├── [ 479]  api_bots.py
+│   ├── [ 506]  api_claude.py
+│   ├── [6.8K]  api_main.py
+│   ├── [ 544]  api_routes
+│   ├── [ 420]  bot_memory.py
+│   ├── [ 588]  cli_menu.py
+│   ├── [ 174]  config.py
+│   ├── [ 513]  config_snippets.txt
+│   ├── [ 128]  creator_engine
+│   ├── [ 256]  head_layer
+│   ├── [   3]  memory.json
+│   ├── [2.7K]  memory_backup.json
+│   ├── [ 218]  memory_search.py
+│   ├── [ 736]  modules
+│   ├── [ 117]  query_memory_test.py
+│   ├── [ 265]  scheduler.py
+│   ├── [  96]  static
+│   └── [ 128]  tests
+├── [   0]  ordnerstruktur.txt
+├── [ 117]  query_memory_test.py
+├── [ 265]  scheduler.py
+├── [ 128]  tests
+│   ├── [ 234]  test_autoflow_full.py
+│   └── [  34]  test_bots.py
+└── [ 224]  venv
+    ├── [  69]  .gitignore
+    ├── [ 768]  bin
+    ├── [  96]  include
+    ├── [  96]  lib
+    └── [ 285]  pyvenv.cfg
+
+76 directories, 91 files
